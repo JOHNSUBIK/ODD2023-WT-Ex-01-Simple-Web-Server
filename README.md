@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
-## NAME: SRIVATSAN V
-## REFERENCE NO:23000970
+## NAME: JOHN PAUL J
+## REFERENCE NO:23011778
 # AIM:
 
 Develop a webserver to display about top five web application development frameworks.
@@ -24,8 +24,8 @@ content ="""
 <head>
 </head>
 <body>
-<h1>SRIVATSAN V</h1>
-<h1>Internet of Things</h1>
+<h1>JOHN PAUL J</h1>
+<h1>AIDS</h1>
 </body>
 </html>
 """
@@ -57,8 +57,8 @@ content ="""
 <head>
 </head>
 <body>
-<h1>SRIVATSAN V</h1>
-<h1>Internet of Things<h1>
+<h1>JOHN PAUL J</h1>
+<h1>AIDS<h1>
 </body>
 </html>
 """
@@ -76,6 +76,7 @@ httpd.serve_forever()
 ```
 # OUTPUT:
 
+![webserver](https://github.com/JOHNSUBIK/ODD2023-WT-Ex-01-Simple-Web-Server/assets/150279319/ce9b06ec-5511-4425-8f94-c39c4d905cd0)
 
 
 # RESULT:
